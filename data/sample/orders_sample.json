@@ -1,0 +1,155 @@
+[
+    {
+        "event_id": "690e10cc-b361-5170-8b8d-5a8ec7803898",
+        "order_id": 12,
+        "customer_id": null,
+        "amount": 800,
+        "status": "CREATED",
+        "source_updated_at": "2026-11-10T12:00:00+00:00",
+        "operation": "INSERT"
+    },
+    {
+        "event_id": "7155fd7e-1212-5798-b357-b7aef3345f10",
+        "order_id": 9,
+        "customer_id": 104,
+        "amount": 1074.3,
+        "status": "CREATED",
+        "source_updated_at": "2026-11-10T10:30:00+00:00",
+        "operation": "INSERT"
+    },
+    {
+        "event_id": "db7a8a12-ede9-549b-b7de-d4f13e7e67a8",
+        "order_id": 4,
+        "customer_id": 100,
+        "amount": 3415.83,
+        "status": "CREATED",
+        "source_updated_at": "2026-11-10T09:40:00+00:00",
+        "operation": "INSERT"
+    },
+    {
+        "event_id": "34962345-051f-5a33-a964-fe95e11b97cb",
+        "order_id": 2,
+        "customer_id": 102,
+        "amount": 0,
+        "status": "DELETED",
+        "source_updated_at": "2026-11-10T11:40:00+00:00",
+        "operation": "DELETE"
+    },
+    {
+        "event_id": "7b13281f-9a4b-5c23-bd8d-88a538288b93",
+        "order_id": 1,
+        "customer_id": 101,
+        "amount": 2500.0,
+        "status": "UPDATED",
+        "source_updated_at": "2026-11-10T11:30:00+00:00",
+        "operation": "UPDATE"
+    },
+    {
+        "event_id": "5010beb4-4bac-5630-8285-6c3d752a9423",
+        "order_id": null,
+        "customer_id": 105,
+        "amount": 700,
+        "status": "CREATED",
+        "source_updated_at": "2026-11-10T12:20:00+00:00",
+        "operation": "INSERT"
+    },
+    {
+        "event_id": "30f22093-0d15-591a-8d9d-d700ca301d1f",
+        "order_id": 2,
+        "customer_id": 105,
+        "amount": 1447.64,
+        "status": "CREATED",
+        "source_updated_at": "2026-11-10T09:20:00+00:00",
+        "operation": "INSERT"
+    },
+    {
+        "event_id": "6fc74710-eed5-5801-a5f1-33ed54e6cf1f",
+        "order_id": 11,
+        "customer_id": 103,
+        "amount": 1200.0,
+        "status": "CREATED",
+        "source_updated_at": "2026-11-10T09:25:00+00:00",
+        "operation": "INSERT"
+    },
+    {
+        "event_id": "eb47a78c-4dbc-50cb-8635-a85bc65f6670",
+        "order_id": 6,
+        "customer_id": 103,
+        "amount": 255.74,
+        "status": "CREATED",
+        "source_updated_at": "2026-11-10T10:00:00+00:00",
+        "operation": "INSERT"
+    },
+    {
+        "event_id": "4882f283-5745-54f5-9521-ec87cbcc9ee7",
+        "order_id": 7,
+        "customer_id": 100,
+        "amount": 1171.33,
+        "status": "CREATED",
+        "source_updated_at": "2026-11-10T10:10:00+00:00",
+        "operation": "INSERT"
+    },
+    {
+        "event_id": "4161374c-d876-572f-b63e-4e03f9191149",
+        "order_id": 3,
+        "customer_id": 101,
+        "amount": 783.74,
+        "status": "CREATED",
+        "source_updated_at": "2026-11-10T09:30:00+00:00",
+        "operation": "INSERT"
+    },
+    {
+        "event_id": "4ac83008-6b1e-5e03-97dc-40715a46c262",
+        "order_id": 1,
+        "customer_id": 105,
+        "amount": 645.52,
+        "status": "CREATED",
+        "source_updated_at": "2026-11-10T09:10:00+00:00",
+        "operation": "INSERT"
+    },
+    {
+        "event_id": "05f87f84-7284-52f3-9f30-041933d0a795",
+        "order_id": 5,
+        "customer_id": 104,
+        "amount": 526.0,
+        "status": "CREATED",
+        "source_updated_at": "2026-11-10T09:50:00+00:00",
+        "operation": "INSERT"
+    },
+    {
+        "event_id": "f13310cd-61e1-5775-81eb-b44129b8d796",
+        "order_id": 10,
+        "customer_id": 105,
+        "amount": 3536.49,
+        "status": "CREATED",
+        "source_updated_at": "2026-11-10T10:40:00+00:00",
+        "operation": "INSERT"
+    },
+    {
+        "event_id": "1e6713e5-7f42-569d-bb88-5711b4e2ea25",
+        "order_id": 13,
+        "customer_id": 104,
+        "amount": -500,
+        "status": "CREATED",
+        "source_updated_at": "2026-11-10T12:10:00+00:00",
+        "operation": "INSERT"
+    },
+    {
+        "event_id": "332a2d9d-4ee3-5c08-875f-838dc613d614",
+        "order_id": 8,
+        "customer_id": 104,
+        "amount": 3049.89,
+        "status": "CREATED",
+        "source_updated_at": "2026-11-10T10:20:00+00:00",
+        "operation": "INSERT"
+    },
+    {
+        "event_id": "4ac83008-6b1e-5e03-97dc-40715a46c262",
+        "order_id": 1,
+        "customer_id": 105,
+        "amount": 645.52,
+        "status": "CREATED",
+        "source_updated_at": "2026-11-10T09:10:00+00:00",
+        "operation": "INSERT"
+    }
+]

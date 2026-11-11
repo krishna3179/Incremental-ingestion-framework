@@ -1,0 +1,12 @@
+
+[
+    {
+        "event_id": "bad-event-001",
+        "order_id": 15,
+        "customer_id": 100,
+        "amount": 500.00,
+        "status": "CREATED",
+        "source_updated_at": "2026-11-10T12:10:00+00:00",
+        "operation": "INSERT"
+    },
+]

@@ -1,0 +1,12 @@
+
+[
+    {
+        "event_id": "order-14-update-001",
+        "order_id": 14,
+        "customer_id": 100,
+        "amount": 900.00,
+        "status": "UPDATED",
+        "source_updated_at": "2026-11-10T11:45:00+00:00",
+        "operation": "UPDATE"
+    }
+]

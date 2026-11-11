@@ -1,0 +1,12 @@
+
+[
+    {
+        "event_id": "late-event-001",
+        "order_id": 14,
+        "customer_id": 100,
+        "amount": 750.00,
+        "status": "CREATED",
+        "source_updated_at": "2026-11-10T11:30:00+00:00",
+        "operation": "INSERT"
+    }
+]
